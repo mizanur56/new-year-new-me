@@ -1,0 +1,26 @@
+header {
+  background-image: url("images/banner/banner3.png");
+  height: 600px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  justify-content: end;
+  padding: 0 30px;
+}
+.banner {
+  text-align: right;
+  color: white;
+  width: 50%;
+}
+.banner h1 {
+  font-size: 60px;
+}
+.button {
+  padding: 5px 15px;
+}
+.first-section {
+  display: flex;
+  align-items: center;
+}
