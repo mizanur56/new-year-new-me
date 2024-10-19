@@ -24,3 +24,19 @@ header {
   display: flex;
   align-items: center;
 }
+.skills-container {
+  display: flex;
+  gap: 20px;
+}
+.third-section {
+  background-image: url(images/watch.png);
+  height: 200px;
+  background-repeat: no-repeat;
+  align-items: center;
+}
+.h2-third {
+  color: aliceblue;
+}
+main {
+  align-items: center;
+}
